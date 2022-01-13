@@ -19,8 +19,8 @@ data:
       </head>
       <body>
         <div>
-          <img height="400px" src="https://branding.cncf.io/img/projects/argo/icon/color/argo-icon-color.svg"></svg>
-          <h1>ArgoCD Rocks !</h1>
+          <img height="400px" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"></svg>
+          <h1>ArgoCD auto syncing is cool too!</h1>
           <p>Version 1.2</p>
         </div>
       </body>
