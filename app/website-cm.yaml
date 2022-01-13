@@ -20,8 +20,8 @@ data:
       <body>
         <div>
           <img height="400px" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"></svg>
-          <h1>ArgoCD auto syncing is cool too!</h1>
-          <p>Version 1.2</p>
+          <h1>Can it apply a difference in manifests without destroying the container?!</h1>
+          <p>Version 2.2.2</p>
         </div>
       </body>
     </html>
